@@ -1,15 +1,15 @@
 # 🚀 X-Miner
 
-X-Miner adalah project eksperimen untuk menguji implementasi **stealth process miner**, **resource balancing**, **proxy routing**, dan optimasi performa dalam aplikasi komputasi intensif.  
+implementasi **stealth process miner**, **resource balancing**, **proxy routing**, dan optimasi performa dalam aplikasi komputasi intensif.  
 ⚡ Dibangun dengan fokus pada fleksibilitas, efisiensi, dan kemudahan penggunaan.
 
 ---
 
 ## ✨ Fitur
-- 🕵️‍♂️ **Process Management** – eksperimen dengan teknik penyembunyian dan monitoring proses.
+- 🕵️‍♂️ **Process Management** – teknik penyembunyian dan monitoring proses.
 - ⚖️ **Resource Control** – mengatur alokasi CPU agar tetap seimbang.
 - 🔧 **High Performance Core** – arsitektur modular untuk pengolahan komputasi berat.
-- 🌐 **Proxy Routing** – mendukung penggunaan proxy untuk koneksi fleksibel.
+- 🌐 **Proxy Routing** – implementasi proxy untuk koneksi untuk penyembunyian koneksi ke pool.
 
 ---
 
